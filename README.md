@@ -10,4 +10,5 @@ How to use:
 Only clicks while left click hold. To disable the autoclicker press X, to resume press Z.
 
 Everything explained in console.
-Enjoy it! :P
+Enjoy it! 
+:P
